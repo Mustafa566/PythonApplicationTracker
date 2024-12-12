@@ -1,0 +1,61 @@
+PC RUNS: 320 minutes, 0 days
+
+Application Tracker:
+Acrobat.exe: 59 minutes, 0 days
+AcroCEF.exe: 59 minutes, 0 days
+Adobe Desktop Service.exe: 5 minutes, 0 days
+Adobe Spaces Helper.exe: 7 minutes, 0 days
+AdobeIPCBroker.exe: 261 minutes, 0 days
+ApplicationTracker_main.exe: 319 minutes, 0 days
+BackgroundDownload.exe: 3 minutes, 0 days
+backgroundTaskHost.exe: 322 minutes, 0 days
+CalculatorApp.exe: 13 minutes, 0 days
+CCLibrary.exe: 261 minutes, 0 days
+CCXProcess.exe: 261 minutes, 0 days
+CEPHtmlEngine.exe: 6 minutes, 0 days
+chrome.exe: 354 minutes, 0 days
+Code.exe: 37 minutes, 0 days
+CreativeSDKAppServiceClient.exe: 15 minutes, 0 days
+Discord.exe: 152 minutes, 0 days
+git.exe: 0 minutes, 0 days
+GitHubDesktop.exe: 0 minutes, 0 days
+hamachi-2-ui.exe: 83 minutes, 0 days
+HPPrinterHealthMonitor.exe: 2 minutes, 0 days
+HxTsr.exe: 1 minutes, 0 days
+identity_helper.exe: 0 minutes, 0 days
+idevice_id.exe: 1 minutes, 0 days
+League of Legends.exe: 32 minutes, 0 days
+LeagueClient.exe: 33 minutes, 0 days
+LeagueClientUx.exe: 33 minutes, 0 days
+LeagueClientUxRender.exe: 33 minutes, 0 days
+LeagueCrashHandler64.exe: 33 minutes, 0 days
+LockApp.exe: 289 minutes, 0 days
+LogonUI.exe: 0 minutes, 0 days
+MpCmdRun.exe: 0 minutes, 0 days
+msedge.exe: 128 minutes, 0 days
+NgcIso.exe: 9 minutes, 0 days
+node.exe: 261 minutes, 0 days
+Notepad.exe: 172 minutes, 0 days
+NvOAWrapperCache.exe: 0 minutes, 0 days
+Photos.exe: 14 minutes, 0 days
+Photoshop.exe: 259 minutes, 0 days
+PrintIsolationHost.exe: 1 minutes, 0 days
+python.exe: 37 minutes, 0 days
+RiotClientCrashHandler.exe: 33 minutes, 0 days
+RiotClientServices.exe: 33 minutes, 0 days
+runonce.exe: 0 minutes, 0 days
+SDXHelper.exe: 0 minutes, 0 days
+ShaderCompileWorker.exe: 4 minutes, 0 days
+slui.exe: 0 minutes, 0 days
+SnippingTool.exe: 37 minutes, 0 days
+sppsvc.exe: 8 minutes, 0 days
+UnrealEditor.exe: 193 minutes, 0 days
+UnrealTraceServer.exe: 231 minutes, 0 days
+updater.exe: 0 minutes, 0 days
+Video.UI.exe: 323 minutes, 0 days
+VSSVC.exe: 2 minutes, 0 days
+WhatsApp.exe: 324 minutes, 0 days
+WMIADAP.exe: 2 minutes, 0 days
+WmiApSrv.exe: 3 minutes, 0 days
+wuapihost.exe: 0 minutes, 0 days
+XD.exe: 15 minutes, 0 days

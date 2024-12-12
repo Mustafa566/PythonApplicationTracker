@@ -1,0 +1,64 @@
+import psutil
+import time
+import json
+import os
+from datetime import datetime
+
+# Path for log file
+LOG_FILE = './app_usage.json'
+
+def get_active_apps():
+    """Get currently running applications."""
+    return {
+        proc.info['name'] for proc in psutil.process_iter(['name'])
+        if proc.info['name'] and proc.info['name'].endswith('.exe')
+    }
+
+def load_log():
+    """Load existing log or create a new one."""
+    if os.path.exists(LOG_FILE):
+        with open(LOG_FILE, 'r') as f:
+            return json.load(f)
+    return {}
+
+def save_log(log_data):
+    """Save log to file."""
+    with open(LOG_FILE, 'w') as f:
+        json.dump(log_data, f, indent=4)
+
+def main():
+    print("Application Usage Tracker started. Press Ctrl+C to exit.")
+    
+    # Load existing log
+    log_data = load_log()
+    
+    # Get today's date as key
+    today = datetime.now().strftime("%Y-%m-%d")
+    if today not in log_data:
+        log_data[today] = {}
+    
+    try:
+        while True:
+            # Get currently running applications
+            current_apps = get_active_apps()
+            
+            # Track time for each app
+            for app in current_apps:
+                if app not in log_data[today]:
+                    log_data[today][app] = 0
+                log_data[today][app] += 1
+            
+            # Save log
+            save_log(log_data)
+            
+            # Wait for a minute
+            time.sleep(60)
+    
+    except KeyboardInterrupt:
+        print("\nStopping tracker and saving log...")
+        save_log(log_data)
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+if __name__ == "__main__":
+    main()
