@@ -1,27 +1,28 @@
-PC RUNS: 328 minutes, 0 days
+PC RUNS: 451 minutes, 0 days
 
 Application Tracker:
 Acrobat.exe: 59 minutes, 0 days
 AcroCEF.exe: 59 minutes, 0 days
 Adobe Desktop Service.exe: 5 minutes, 0 days
 Adobe Spaces Helper.exe: 7 minutes, 0 days
-AdobeIPCBroker.exe: 269 minutes, 0 days
-ApplicationTracker_main.exe: 327 minutes, 0 days
+AdobeIPCBroker.exe: 392 minutes, 0 days
+ApplicationTracker_main.exe: 450 minutes, 0 days
 BackgroundDownload.exe: 3 minutes, 0 days
-backgroundTaskHost.exe: 330 minutes, 0 days
-CalculatorApp.exe: 13 minutes, 0 days
-CCLibrary.exe: 269 minutes, 0 days
-CCXProcess.exe: 269 minutes, 0 days
+backgroundTaskHost.exe: 453 minutes, 0 days
+CalculatorApp.exe: 15 minutes, 0 days
+CCLibrary.exe: 392 minutes, 0 days
+CCXProcess.exe: 392 minutes, 0 days
 CEPHtmlEngine.exe: 6 minutes, 0 days
-chrome.exe: 362 minutes, 0 days
+chrome.exe: 485 minutes, 0 days
 Code.exe: 37 minutes, 0 days
 CreativeSDKAppServiceClient.exe: 15 minutes, 0 days
-Discord.exe: 160 minutes, 0 days
-git.exe: 0 minutes, 0 days
-GitHubDesktop.exe: 8 minutes, 0 days
-hamachi-2-ui.exe: 91 minutes, 0 days
-HPPrinterHealthMonitor.exe: 2 minutes, 0 days
-HxTsr.exe: 1 minutes, 0 days
+Discord.exe: 283 minutes, 0 days
+git-lfs.exe: 0 minutes, 0 days
+git.exe: 1 minutes, 0 days
+GitHubDesktop.exe: 9 minutes, 0 days
+hamachi-2-ui.exe: 103 minutes, 0 days
+HPPrinterHealthMonitor.exe: 3 minutes, 0 days
+HxTsr.exe: 2 minutes, 0 days
 identity_helper.exe: 0 minutes, 0 days
 idevice_id.exe: 1 minutes, 0 days
 League of Legends.exe: 32 minutes, 0 days
@@ -29,16 +30,18 @@ LeagueClient.exe: 33 minutes, 0 days
 LeagueClientUx.exe: 33 minutes, 0 days
 LeagueClientUxRender.exe: 33 minutes, 0 days
 LeagueCrashHandler64.exe: 33 minutes, 0 days
-LockApp.exe: 297 minutes, 0 days
-LogonUI.exe: 0 minutes, 0 days
+LockApp.exe: 420 minutes, 0 days
+LogonUI.exe: 1 minutes, 0 days
+MicrosoftEdgeUpdate.exe: 0 minutes, 0 days
 MpCmdRun.exe: 0 minutes, 0 days
-msedge.exe: 136 minutes, 0 days
+msedge.exe: 259 minutes, 0 days
+msiexec.exe: 5 minutes, 0 days
 NgcIso.exe: 9 minutes, 0 days
-node.exe: 269 minutes, 0 days
+node.exe: 392 minutes, 0 days
 Notepad.exe: 172 minutes, 0 days
 NvOAWrapperCache.exe: 0 minutes, 0 days
 Photos.exe: 14 minutes, 0 days
-Photoshop.exe: 267 minutes, 0 days
+Photoshop.exe: 390 minutes, 0 days
 PrintIsolationHost.exe: 1 minutes, 0 days
 python.exe: 37 minutes, 0 days
 RiotClientCrashHandler.exe: 33 minutes, 0 days
@@ -48,14 +51,15 @@ SDXHelper.exe: 0 minutes, 0 days
 ShaderCompileWorker.exe: 4 minutes, 0 days
 slui.exe: 0 minutes, 0 days
 SnippingTool.exe: 37 minutes, 0 days
-sppsvc.exe: 8 minutes, 0 days
+sppsvc.exe: 10 minutes, 0 days
 UnrealEditor.exe: 193 minutes, 0 days
-UnrealTraceServer.exe: 239 minutes, 0 days
-updater.exe: 0 minutes, 0 days
-Video.UI.exe: 331 minutes, 0 days
+UnrealTraceServer.exe: 362 minutes, 0 days
+Update.exe: 0 minutes, 0 days
+updater.exe: 2 minutes, 0 days
+Video.UI.exe: 454 minutes, 0 days
 VSSVC.exe: 2 minutes, 0 days
-WhatsApp.exe: 332 minutes, 0 days
-WMIADAP.exe: 2 minutes, 0 days
+WhatsApp.exe: 453 minutes, 0 days
+WMIADAP.exe: 5 minutes, 0 days
 WmiApSrv.exe: 3 minutes, 0 days
 wuapihost.exe: 0 minutes, 0 days
 XD.exe: 15 minutes, 0 days
